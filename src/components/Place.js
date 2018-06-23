@@ -13,28 +13,28 @@ class Place extends Component {
             <div className="col-lg-3 col-md-6">
               <div className="service">
                 <div className="pic" style={{ backgroundImage: `url(${'img/place-1.jpg'})` }}></div>
-                <h4>Bla bla bla</h4>
+                <h4>Baño adaptado</h4>
               </div>
             </div>
 
             <div className="col-lg-3 col-md-6">
               <div className="service">
                 <div className="pic" style={{ backgroundImage: `url(${'img/place-2.jpg'})` }}></div>
-                <h4>Bla bla bla</h4>
+                <h4>Equipamiento para integración sensorial</h4>
               </div>
             </div>
 
             <div className="col-lg-3 col-md-6">
               <div className="service">
                 <div className="pic" style={{ backgroundImage: `url(${'img/place-3.jpg'})` }}></div>
-                <h4>Bla bla bla</h4>
+                <h4>Sala de estimulación visual</h4>
               </div>
             </div>
 
             <div className="col-lg-3 col-md-6">
               <div className="service">
                 <div className="pic" style={{ backgroundImage: `url(${'img/place-4.jpg'})` }}></div>
-                <h4>Bla bla bla</h4>
+                <h4>Sala de espera</h4>
               </div>
             </div>
           </div>

@@ -6,15 +6,11 @@ class Header extends Component {
       <header id="header">
         <div className="container">
 
-          <div id="logo" className="pull-left">
-            <a href="#hero"><img src="img/logo.png" alt="" title=""></img></a>
-          </div>
-
           <nav id="nav-menu-container">
             <ul className="nav-menu">
               <li className="menu-active"><a href="#hero">Inicio</a></li>
               <li><a href="#about">Nosotros</a></li>
-              <li><a href="#specialties">Especializaciones</a></li>
+              <li><a href="#specialties">Servicios</a></li>
               <li><a href="#place">Espacio</a></li>
               {/* <li className="menu-has-children"><a href="">Drop Down</a>
                 <ul>

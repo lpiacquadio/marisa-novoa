@@ -570,6 +570,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
 }
 
+#about .about-container .icon-box ul {
+  margin-left: 100px;
+}
+
 /* Facts Section
 --------------------------------*/
 #facts {
@@ -603,7 +607,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 50px;
   text-align: center;
   border: 1px solid #e6e6e6;
-  height: 200px;
   position: relative;
   background: #fafafa;
 }
@@ -655,6 +658,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #specialties .description {
   font-size: 14px;
   line-height: 24px;
+  text-align: justify;
 }
 
 /* Call To Action Section
@@ -971,4 +975,15 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   font-size: 13px;
   color: #ccc;
+}
+
+ul {
+  margin-left: 20px;
+  padding: 0px;
+  text-align: left;
+}
+
+li {
+  font-size: 14px;
+  line-height: 24px;
 }

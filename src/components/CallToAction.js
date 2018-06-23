@@ -7,8 +7,10 @@ class CallToAction extends Component {
         <div className="container wow fadeIn">
           <div className="row">
             <div className="col-lg-9 text-center text-lg-left">
-              <h3 className="cta-title">Algo</h3>
-              <p className="cta-text"> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <h3 className="cta-title">Feedback</h3>
+              <p className="cta-text"> Proceso entre dos partes que se da de forma continua estimulando de forna
+              adecuada. Intercambiando posiciones generando acción buscando como resultado de esa conexión alcanzar
+              una retroalimentación positiva...</p>
             </div>
           </div>
 
